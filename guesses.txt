@@ -1,2 +1,3 @@
 User guessed: 2, the actual temperature was 5
 User guessed: 2, the actual temperature was 5
+User guessed: 13, the actual temperature was 2
